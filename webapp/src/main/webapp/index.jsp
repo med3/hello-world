@@ -3,7 +3,7 @@
     <h1>
       Hi ! It's Mohammed. Welcome To Our Brand New Course For DevOps Learning
     </h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>Please fill in this form to create an account. Thanks !</p>
     <hr />
     <label for="email"><b>Enter Email Address</b></label>
     <input
