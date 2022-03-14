@@ -44,5 +44,4 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-  <h1>Welcome to the community, Happy Learning</h1>
 </form>
