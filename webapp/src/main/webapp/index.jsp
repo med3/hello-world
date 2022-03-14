@@ -5,7 +5,7 @@
     </h1>
     <p>Please fill in this form to create an account.</p>
     <hr />
-    <label for="email"><b>Enter Email Address</b></label>
+    <label for="email"><b>Your Email Address</b></label>
     <input
       type="text"
       placeholder="Enter Email"
