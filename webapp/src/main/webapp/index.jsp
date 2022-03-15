@@ -1,9 +1,9 @@
 <form action="action_page.php">
   <div class="container">
     <h1>
-      Welcome To Our Brand New Course For DevOps Learning !
+      Hey firend ! Welcome To Our Brand New Course For DevOps Learning !
     </h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>Please fill in this form to create an account. And have fun !</p>
     <hr />
     <label for="email"><b>Your Email Address</b></label>
     <input
