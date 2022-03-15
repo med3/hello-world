@@ -36,7 +36,7 @@
     
     <br />
 
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label for="mobile"><b>Enter Your mobile number</b></label>
     <input
       type="text"
       placeholder="Enter Mobile"
