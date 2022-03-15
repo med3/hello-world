@@ -33,6 +33,18 @@
       id="psw-repeat"
       required
     />
+    
+    <br />
+
+    <label for="mobile"><b>Enter mobile number</b></label>
+    <input
+      type="text"
+      placeholder="Enter Mobile"
+      name="mobile"
+      id="mobile"
+      required
+    />
+    
     <hr />
     <br />
     <p>
