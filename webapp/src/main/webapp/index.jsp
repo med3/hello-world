@@ -42,7 +42,6 @@
       placeholder="Enter Mobile"
       name="mobile"
       id="mobile"
-      required
     />
     
     <hr />
